@@ -1,6 +1,7 @@
 #pragma once
-#include "CIString.h"
-#include "MakeID.h"
+
+#include "Utilities/CIString.h"
+#include "Utilities/MakeID.h"
 #include "Structures.h"
 #include <functional>
 #include <map>

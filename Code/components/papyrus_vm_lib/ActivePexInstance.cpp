@@ -1,5 +1,5 @@
 #include "OpcodesImplementation.h"
-#include "Utils.h"
+#include "Utilities/Utils.h"
 #include "VirtualMachine.h"
 #include <algorithm>
 #include <cctype> // tolower

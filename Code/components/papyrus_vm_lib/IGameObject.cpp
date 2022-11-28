@@ -1,5 +1,5 @@
 #include "Structures.h"
-#include "Utils.h"
+#include "Utilities/Utils.h"
 
 bool IGameObject::HasScript(const char* scriptName) const
 {

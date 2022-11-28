@@ -1,6 +1,6 @@
 #include "VirtualMachine.h"
-#include "Utils.h"
-#include <MakeID.h>
+#include "Utilities/Utils.h"
+#include "Utilities/MakeID.h"
 #include <algorithm>
 #include <sstream>
 #include <stdexcept>
