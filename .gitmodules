@@ -16,3 +16,6 @@
 [submodule "Libraries/cpp-httplib"]
 	path = Libraries/cpp-httplib
 	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "Libraries/papyrus-vm"]
+	path = Libraries/papyrus-vm
+	url = https://github.com/skyrim-multiplayer/papyrus-vm.git
